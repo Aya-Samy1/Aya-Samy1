@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Aya-Samy1/Aya-Samy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  Welcome to my profile!
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></a>
+</p> 
 
-Here are some ideas to get you started:
+<p >
+ 🔗Connect with me: 
+<a href="mailto:ayasamy2410@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+<a href="https://github.com/Aya-Samy1">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p >
+
+🚀Tech Stack:
+  <img alt="Html" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
+  <img alt="Css" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
+</p>
